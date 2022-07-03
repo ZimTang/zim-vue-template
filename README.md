@@ -1,7 +1,8 @@
-# Vue 3 + Vite
+# vue3 + vite 项目模板
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+已配置：
+- eslint + prettier
+- husky + lint-staged
+- commitizen + commitlint
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+本仓库目的：减少创建项目时间
